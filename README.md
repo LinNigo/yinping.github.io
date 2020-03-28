@@ -1,0 +1,2 @@
+# yinping.github.io
+blog
